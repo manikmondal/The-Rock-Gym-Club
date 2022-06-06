@@ -1,0 +1,44 @@
+[
+    {
+        "id": 111,
+        "name": "Training Bench..",
+        "price": "599",
+        "description": "A training bench is an adjustable platform used for performing weight training exercises. You should be able to adjust the backrest, so you can move it from a flat position to an incline. You'll find a range of benches online.",
+        "img": "./images/rock1.jpg"
+    },
+    {
+        "id": 222,
+        "name": "Dumbbell Set..",
+        "price": "499",
+        "description": " Get a set of dumbbells, ranging from very light to very heavy, depending on who will be using them. Dumbbells come in a variety of sizes, shapes, and materials these days, from plastic-coated to colorful to straight metal, so take your pick. Get a set with a rack to save space.",
+        "img": "./images/rock2.jpg"
+    },
+    {
+        "id": 333,
+        "name": "Kettlebell Set..",
+        "price": "699",
+        "description": "Kettlebells provide an alternative to dumbbells because they activate a slightly different muscle profile, particularly the core. Although not necessarily superior, they are popular and worth purchasing. Kettlebells come in a variety of weights, sizes, and even shapes.",
+        "img": "./images/rock3.jpg"
+    },
+    {
+        "id": 444,
+        "name": "Stationary Bicycle..",
+        "price": "699",
+        "description": "The stationary bike is an alternative to the treadmill and rowing machine for cardiovascular endurance training. A bike provides a low-impact way to get the heart rate elevated.Each of these three machines emphasizes slightly different neuromuscular approaches to aerobic fitness.",
+        "img": "./images/rock4.jpg"
+    },
+    {
+        "id": 555,
+        "name": "Fitness Ball..",
+        "price": "555",
+        "description": "You can design a lot of exercises around a fitness ball, especially core exercises. It adds an extra stability challenge to moves like chest presses, bicep curls, dead bugs, or plank knee tucks. So add it to your gym equipment arsenal.Kettlebells come in a variety of weights, sizes, and even shapes.",
+        "img": "./images/rock5.jpg"
+    },
+    {
+        "id": 666,
+        "name": "Best Power Racks..",
+        "price": "777",
+        "description": "If you're looking to take your workouts to a new level, look no further than a power rack, which is a sturdy piece of equipment that can act as a pullup bar, a squat rack, and a bench press all in one. When looking for a power rack, check to make sure it's adjustable and can mount J-hooks.",
+        "img": "./images/rock6.jpg"
+    }
+]

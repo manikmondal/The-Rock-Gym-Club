@@ -1,0 +1,23 @@
+.blogs-text {
+    margin: 40px;
+}
+
+.blogs-text h1 {
+    color: green;
+}
+
+.blogs {
+    margin: 10px;
+    background-color: ghostwhite;
+    border: 2px solid goldenrod;
+    border-radius: 10px;
+
+}
+
+.blogs h1 {
+    margin: 20px;
+}
+
+.blogs p {
+    margin: 20px;
+}
